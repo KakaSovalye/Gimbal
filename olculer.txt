@@ -1,0 +1,39 @@
+H 32,17
+girecek kısım 22,6
+en 12,38
+motor tutucudan uca 15,1
+uc 5
+
+delik 2,5
+üstten döner baş 5
+kol 32
+kol delik çap 7
+motor tutucudan kol uca 16,2
+22
+
+Kamera 70
+kamera foun en 38,5
+kamera foun derin 45,3
+kamera derinlik 68
+kamera yükseklik 46
+kamera göz dipten 30
+kamera kafa yükseklik 30
+kamera kafa derinklik 27,81
+
+kamera foun vida merkez en 19
+kamera foun vida merkez der 16
+
+kamera foun vida çap 6
+
+motor temelden kol yüzeye 32.8~33
+
+platform en 34
+48 yarıçap dikey hareket
+platform dip 9m 6m
+
+kol uçtan 7m'de 1 vida
+1 mm çap delik
+
+vida derinlik 8.5mm
+
+lazer 6mm 10mm
