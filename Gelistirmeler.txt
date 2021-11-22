@@ -1,3 +1,3 @@
 *  mesafeye göre ölçekleme için elde hareketsiz iki node'un mesafelerinden ölçek oluşturup oranla
 *  yüz tanıma sorununu kotnrol et tekrar çalıştır
-* kafa hareketlerini taklit etsin. el ile ateş edince laser açsın
+* el ile ateş edince laser açsın
