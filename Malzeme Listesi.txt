@@ -1,0 +1,8 @@
+1 x Everest WebCam SC-HD03
+2 x SG90
+1 x Laser Diode
+5V power supply
+1x Arduino UNO
+1 x Breadboard
+6 x Erkek Erkek jumper
+4 x 2,2x7 Vida
