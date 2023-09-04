@@ -4,6 +4,21 @@
     <list default="true" id="e845bea0-25a4-419f-a73b-96e35721e19b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/f2py.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/futurize-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/futurize.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/futurize.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pasteurize-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pasteurize.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pasteurize.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/wheel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
